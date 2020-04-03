@@ -1,6 +1,4 @@
 # Microsoft Azure Interview Questions
-1. [ Cloud Computing ](#cloudcomputing)
-<a name="cloudcomputing" />
 ## Cloud Computing
 ### Azure Models
 #### Q: What's the differences between different cloud models: PaaS, IaaS, SaaS?
