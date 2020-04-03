@@ -1,4 +1,4 @@
-# Microsoft Azure Interview Questions
+# Microsoft Azure Interview/Academic Questions
 
 1. [Cloud Computing](#cloud_computing)
       * [Azure Models](#azure_models)
