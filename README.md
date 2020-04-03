@@ -1,9 +1,9 @@
 # Microsoft Azure Interview Questions
 
 1. [Cloud Computing](#cloud_computing)
-* [Azure Models](#azure_models)
+      * [Azure Models](#azure_models)
 3. [Azure Services](#azure_services)
-* [Storage Account](#storage_account)
+      * [Storage Account](#storage_account)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
