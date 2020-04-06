@@ -3,6 +3,7 @@
 1. [Cloud Computing](#cloud_computing)
       * [Azure Models](#azure_models)
 3. [Azure Services](#azure_services)
+      * [General](#general)
       * [Storage Account](#storage_account)
 
 <a name="cloud_computing"></a>
@@ -16,6 +17,22 @@ A:<br/>
 **3) SaaS: Software As A Service** - delivers full software platform and/or SDK Suite for developers. Only what the user needs to do is to make a configuration. Scalability & platform is transparent. Example: Office 356, Azure IoT Suite
 <a name="azure_services"></a>
 ## Azure Services
+<a name="general"></a>
+### General
+#### Q: Describe most popular Azure Services 
+A:
+| Service | Description |
+| --- | --- |
+|Virtual Machine | Dedicated image of OS system |
+|Azure Virtual Scale Set | Feature that supports autoscaling between VMs. Load Balancer is created automatically |
+|Azure Functions | Serverless "container" for development code (C# Java Script, Python, Java) | 
+|AKS, Azure Container Service | Container orchestrator (Kubernetes, DC/OS, Swarm) |
+|Azure Container Instances | Containers for Windows and Linux | 
+|Azure Container Registry | Container repo (like Docker Hub) |
+|Azure Batch | Job scheduling and in automatically scaling and managing virtual machines running those jobs|
+|Azure Service Fabric | Distributed framework for microservice/container development and lifecycle management|
+|Azure Virtual Network |Service that allows to close object into safety virtual network |
+|Azure Load Balancer | Smart traffic manager for distributing load between VMs |
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
