@@ -37,6 +37,7 @@ A:
 |Azure VPN Gateway|VPN for Virtual Networks |
 |Azure DNS|DNS Server for Azure objects|
 |Azure Content Delivery Network|Content delivery network bundle capable of handling most content delivery network workloads|
+|Azure Traffic Manager|High-availability ensurement for endpoint monitoring and automatic reconnection after failure|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
