@@ -33,6 +33,10 @@ A:
 |Azure Service Fabric | Distributed framework for microservice/container development and lifecycle management|
 |Azure Virtual Network |Service that allows to close object into safety virtual network |
 |Azure Load Balancer | Smart traffic manager for distributing load between VMs |
+|Azure Application Gateway |Round robin load balancer for HTTP traffic |
+|Azure VPN Gateway|VPN for Virtual Networks |
+|Azure DNS|DNS Server for Azure objects|
+|Azure Content Delivery Network|Content delivery network bundle capable of handling most content delivery network workloads|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
