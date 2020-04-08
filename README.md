@@ -38,6 +38,7 @@ A:
 |Azure DNS|DNS Server for Azure objects|
 |Azure Content Delivery Network|Content delivery network bundle capable of handling most content delivery network workloads|
 |Azure Traffic Manager|High-availability ensurement for endpoint monitoring and automatic reconnection after failure|
+|Azure Express Route|Dynamic routing between on-prem network and Azure|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
