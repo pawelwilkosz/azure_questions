@@ -43,7 +43,7 @@ A:
 |Azure Network Watcher|Monitoring and diagnisis of the Azure network resources|
 |Azure Storage|Storage for BLOBS, structured data (tables), file sharing and queues|
 |Azure Data Lake Storage|Storage for Big Data solutions|
-|Azure Storsimple|SYnchronization between on-prem and Azure Storage|
+|Azure Storsimple|Synchronization between on-prem and Azure Storage|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
