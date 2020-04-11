@@ -39,6 +39,11 @@ A:
 |Azure Content Delivery Network|Content delivery network bundle capable of handling most content delivery network workloads|
 |Azure Traffic Manager|High-availability ensurement for endpoint monitoring and automatic reconnection after failure|
 |Azure Express Route|Dynamic routing between on-prem network and Azure|
+|Azure DDOS Protection|Cost-free Azure protection against Distributed Denial Of Services attacks|
+|Azure Network Watcher|Monitoring and diagnisis of the Azure network resources|
+|Azure Storage|Storage for BLOBS, structured data (tables), file sharing and queues|
+|Azure Data Lake Storage|Storage for Big Data solutions|
+|Azure Storsimple|SYnchronization between on-prem and Azure Storage|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
