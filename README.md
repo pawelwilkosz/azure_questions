@@ -44,6 +44,13 @@ A:
 |Azure Storage|Storage for BLOBS, structured data (tables), file sharing and queues|
 |Azure Data Lake Storage|Storage for Big Data solutions|
 |Azure Storsimple|Synchronization between on-prem and Azure Storage|
+|Azure Site Recovery |Replication of application running on VMs and/or physical machines from the master localization to backup|
+|Azure App Service|Serverless App container|
+|Azure Web App|Serverless Web Application hosted on IIS|
+|Azure Mobile Apps|Simple service for Mobile App backend development|
+|Azure Logic App|PaaS for workflow and business logic modelling|
+|Azure API Apps|Web API services, integrated part of Web Apps|
+|Azure Search|Content searcher based on Elasticsearch|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
