@@ -51,6 +51,13 @@ A:
 |Azure Logic App|PaaS for workflow and business logic modelling|
 |Azure API Apps|Web API services, integrated part of Web Apps|
 |Azure Search|Content searcher based on Elasticsearch|
+|Azure Notification Hub|Service for sending Push Notification. Can be integrated with iOS, Android and Windows|
+|Azure SQL Database|Database based on SQL Server engine. User has a possibility to choose also MySQL and PostgreSQL engine|
+|Azure SQL Data Warehouse|Enterprise data warehouse in PaaS model|
+|Azure Cosmos DB|NoSQL database in PaaS model|
+|Azure Redis Cache|Service for fast and save cache memory|
+|Azure Database Migration Service|Service supports migration process from on-premis to cloud database|
+
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
