@@ -57,7 +57,12 @@ A:
 |Azure Cosmos DB|NoSQL database in PaaS model|
 |Azure Redis Cache|Service for fast and save cache memory|
 |Azure Database Migration Service|Service supports migration process from on-premis to cloud database|
-
+|Azure HDInsight|Managed platform for Big Data analysis|
+|Azure Data Bricks|Analytical platform based on Azure Spark|
+|Azure Stream Analytics|Data Stream processing with ML|
+|Azure Bot Service|Virtual Partner Implementation in Azure|
+|Azure Data Lake Analytics|Job-based service for Big Data Analysis|
+|Azure Data Factory|Data Set factory between different data sources|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
