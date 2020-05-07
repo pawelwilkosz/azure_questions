@@ -63,6 +63,12 @@ A:
 |Azure Bot Service|Virtual Partner Implementation in Azure|
 |Azure Data Lake Analytics|Job-based service for Big Data Analysis|
 |Azure Data Factory|Data Set factory between different data sources|
+|Azure Data Catalog|Registry for different type of Data (SQL, NoSQL)|
+|Azure Log Analytics|Service for logging and monitoring Azure objects|
+|Azure Analysis Service|Paas for well known SQL Server Analysis Services|
+|Azure Maps|Mapping service based on Bing engine|
+|Azure Custom Speech Service|Azure AI text to speech|
+|Azure Event Hub|Service designed for streaming huge amount of data|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
