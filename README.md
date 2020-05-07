@@ -69,6 +69,8 @@ A:
 |Azure Maps|Mapping service based on Bing engine|
 |Azure Custom Speech Service|Azure AI text to speech|
 |Azure Event Hub|Service designed for streaming huge amount of data|
+|Azure IOT Hub|Platform for IoT Device management|
+|Azure DPS|IoT Device Provisioning Service|
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
