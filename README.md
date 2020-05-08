@@ -79,3 +79,5 @@ A: There's 4 types of Storage Accounts:<br/>
 **2) Table Storage** - designed for storing structured NoSQL data.<br/>
 **3) Queue Storage** - designerd for storing large number of messages (access via HTTPS).<br/> 
 **4) (Shared) File Storage** - designed for storing fully managed file shares.<br/>
+#### Q: What's Shared Access Signature?
+A: SAS is a hash key including into Storage Account/Container/Blob URI that guaarantees restricted access to that objects. SAS can be generated with validity period (for example for 1 month only)
