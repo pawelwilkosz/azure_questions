@@ -71,6 +71,9 @@ A:
 |Azure Event Hub|Service designed for streaming huge amount of data|
 |Azure IOT Hub|Platform for IoT Device management|
 |Azure DPS|IoT Device Provisioning Service|
+|Azure Active Directory|Identity and access management center|
+|Azure KeyVault|Secure database for storing secrets|
+
 <a name="storage_account"></a>
 ### Storage Account
 #### Q: How many different Storage Accounts Azure offer?
