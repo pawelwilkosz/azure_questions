@@ -84,3 +84,5 @@ A: There's 4 types of Storage Accounts:<br/>
 **4) (Shared) File Storage** - designed for storing fully managed file shares.<br/>
 #### Q: What's Shared Access Signature?
 A: SAS is a hash key including into Storage Account/Container/Blob URI that guaarantees restricted access to that objects. SAS can be generated with validity period (for example for 1 month only)
+#### Q: How much storage VM can use?
+A: Data Disk contains up to 1 TB free space, however it's possible to link more than one disk to the VM
