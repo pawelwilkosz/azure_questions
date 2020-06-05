@@ -5,7 +5,7 @@
 3. [Azure Services](#azure_services)
       * [General](#general)
       * [Storage Account](#storage_account)
-      * [Key Vault]($key_vault)
+      * [Key Vault](#key_vault)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -92,3 +92,6 @@ A: Data Disk contains up to 1 TB free space, however it's possible to link more 
 ### Key Vault
 #### Q: What kind of secrets Azure Key Vault can protect?
 A: Keys, Certificates and Secrets
+
+#### Q: How can you grant access to e.g. list secrets/certificates?
+A: Access is configured per secret type, separate for: Keys, Certificates and Secrets. 
