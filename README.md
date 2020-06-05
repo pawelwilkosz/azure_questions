@@ -5,6 +5,7 @@
 3. [Azure Services](#azure_services)
       * [General](#general)
       * [Storage Account](#storage_account)
+      * [Key Vault]($key_vault)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -86,3 +87,8 @@ A: There's 4 types of Storage Accounts:<br/>
 A: SAS is a hash key including into Storage Account/Container/Blob URI that guaarantees restricted access to that objects. SAS can be generated with validity period (for example for 1 month only)
 #### Q: How much storage VM can use?
 A: Data Disk contains up to 1 TB free space, however it's possible to link more than one disk to the VM
+
+<a name="key_vault"></a>
+### Key Vault
+#### Q: What kind of secrets Azure Key Vault can protect?
+A: Keys, Certificates and Secrets
