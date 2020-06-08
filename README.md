@@ -87,6 +87,8 @@ A: There's 4 types of Storage Accounts:<br/>
 A: SAS is a hash key including into Storage Account/Container/Blob URI that guaarantees restricted access to that objects. SAS can be generated with validity period (for example for 1 month only)
 #### Q: How much storage VM can use?
 A: Data Disk contains up to 1 TB free space, however it's possible to link more than one disk to the VM
+#### Q: Is there any limit of file count on BLOB Storage?
+A: There's no limit on file count however there's a limit on storage size (500TB). 
 
 <a name="key_vault"></a>
 ### Key Vault
