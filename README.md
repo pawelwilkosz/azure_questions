@@ -97,3 +97,7 @@ A: Keys, Certificates and Secrets
 
 #### Q: How can you grant access to e.g. list secrets/certificates?
 A: Access is configured per secret type, separate for: Keys, Certificates and Secrets. 
+
+#### Q: What's a differences between keys and secrets?
+A: Info abput Keys: https://docs.microsoft.com/pl-pl/azure/key-vault/keys/about-keys
+Info about Secrets: https://docs.microsoft.com/pl-pl/azure/key-vault/secrets/about-secrets
