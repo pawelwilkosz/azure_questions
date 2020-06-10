@@ -89,6 +89,8 @@ A: SAS is a hash key including into Storage Account/Container/Blob URI that guaa
 A: Data Disk contains up to 1 TB free space, however it's possible to link more than one disk to the VM
 #### Q: Is there any limit of file count on BLOB Storage?
 A: There's no limit on file count however there's a limit on storage size (500TB). 
+#### Q: What's Storage Account Soft Delete?
+A: Soft delete protects file against accidentially deletion. When the option is enabled and user performs delete on particular object, Azure marked it as "Deleted" without phisically removal
 
 <a name="key_vault"></a>
 ### Key Vault
