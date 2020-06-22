@@ -17,6 +17,8 @@ A:<br/>
 **2) IaaS: Infrastructure As A Service** - IaaS "hide" internal communications betwen objects as: Network, Antivirus, Operating System, Clusters etc. Examples: Virtual Machines, Azure Kubernetes Service<br/>
 **3) SaaS: Software As A Service** - delivers full software platform and/or SDK Suite for developers. Only what the user needs to do is to make a configuration. Scalability & platform is transparent. Example: Office 356, Azure IoT Suite
 <a name="azure_services"></a>
+#### Q: What's Azure Resource Group?
+A: Resource group is a logical group collector for Azure objects/assets
 ## Azure Services
 <a name="general"></a>
 ### General
