@@ -6,6 +6,8 @@
       * [General](#general)
       * [Storage Account](#storage_account)
       * [Key Vault](#key_vault)
+4. [Troubleshooting](#troubleshooting)
+     * [Health Check](#health_check)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -109,3 +111,10 @@ Info about Secrets: https://docs.microsoft.com/pl-pl/azure/key-vault/secrets/abo
 ###Virtual Machines
 ####Q: What's Virtual Machine Scale Set?
 A: Service for creating load balancing VMs.
+
+<a name="troubleshooting"></a>
+## Troubleshooting
+<a name="health_check"></a>
+### Health Check
+#### Q: How to check maintenance scheduled by Microsoft by itself?
+A: Go to the Azure Portal -> Service Health -> Planned Maintenance
