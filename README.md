@@ -8,6 +8,7 @@
       * [Key Vault](#key_vault)
 4. [Troubleshooting](#troubleshooting)
      * [Health Check](#health_check)
+5. [Security](#security)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -124,3 +125,6 @@ A: Service for creating load balancing VMs.
 ### Health Check
 #### Q: How to check maintenance scheduled by Microsoft by itself?
 A: Go to the Azure Portal -> Service Health -> Planned Maintenance
+
+<a name="security"></a>
+## Security
