@@ -9,6 +9,7 @@
 4. [Troubleshooting](#troubleshooting)
      * [Health Check](#health_check)
 5. [Security](#security)
+     * [Identity](#identity)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
