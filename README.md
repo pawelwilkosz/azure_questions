@@ -128,3 +128,7 @@ A: Go to the Azure Portal -> Service Health -> Planned Maintenance
 
 <a name="security"></a>
 ## Security
+<a name="identity"></a>
+### Identity
+#### Q: What's Identity As A Service in Microsoft Azure?
+A: It's SaaS-based Identity Access Management (IAM) that allows to use Single Sign-On authentication from your organization (on-premises AD) and access control
