@@ -133,3 +133,6 @@ A: Go to the Azure Portal -> Service Health -> Planned Maintenance
 ### Identity
 #### Q: What's Identity As A Service in Microsoft Azure?
 A: It's SaaS-based Identity Access Management (IAM) that allows to use Single Sign-On authentication from your organization (on-premises AD) and access control
+
+#### Q: What's a different way to create identity in Azure AD?
+A: It can be: adding user in Azure AD, invite user via Azure AD (hardening), Synchronization with on-prem AD, Azure AD Bulk create/Bulk invite (group of users defined in *.csv file),  
