@@ -136,3 +136,6 @@ A: It's SaaS-based Identity Access Management (IAM) that allows to use Single Si
 
 #### Q: What's a different way to create identity in Azure AD?
 A: It can be: adding user in Azure AD, invite user via Azure AD (hardening), Synchronization with on-prem AD, Azure AD Bulk create/Bulk invite (group of users defined in *.csv file),  
+
+#### Q: What's SPN (Service Principal) Account in Azure AD?
+A: This is an accpunt for application that shall be authorized using Azure AD. In practice SPN account is created as an application registration (App registration -> Register new app)
