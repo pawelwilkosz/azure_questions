@@ -153,3 +153,4 @@ A:
 
 #### Q: On which level it's possible to grant an access?
 A: You can grant an access on Subscription, Resource Group and Resources
+
