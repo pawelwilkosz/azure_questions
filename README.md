@@ -10,6 +10,7 @@
      * [Health Check](#health_check)
 5. [Security](#security)
      * [Identity](#identity)
+     * [Roles](#roles)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -139,3 +140,11 @@ A: It can be: adding user in Azure AD, invite user via Azure AD (hardening), Syn
 
 #### Q: What's SPN (Service Principal) Account in Azure AD?
 A: This is an accpunt for application that shall be authorized using Azure AD. In practice SPN account is created as an application registration (App registration -> Register new app)
+
+<a name="roles"></a>
+### Roles
+#### Q: Name the most popular available roles
+A:
+- Contributor - can manage everything except access
+- Owner - can manage everything including access
+- Reader - can view anything but can't make changes
