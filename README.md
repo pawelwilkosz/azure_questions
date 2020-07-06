@@ -148,3 +148,5 @@ A:
 - Contributor - can manage everything except access
 - Owner - can manage everything including access
 - Reader - can view anything but can't make changes
+- User Access Administrator - manage user access to Azure resources
+- Virtual machine Contributor - can manage VMs but not virtual network or storage
