@@ -150,3 +150,6 @@ A:
 - Reader - can view anything but can't make changes
 - User Access Administrator - manage user access to Azure resources
 - Virtual machine Contributor - can manage VMs but not virtual network or storage
+
+#### Q: On which level it's possible to grant an access?
+A: You can grant an access on Subscription, Resource Group and Resources
