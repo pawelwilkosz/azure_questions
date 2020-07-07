@@ -141,6 +141,9 @@ A: It can be: adding user in Azure AD, invite user via Azure AD (hardening), Syn
 #### Q: What's SPN (Service Principal) Account in Azure AD?
 A: This is an accpunt for application that shall be authorized using Azure AD. In practice SPN account is created as an application registration (App registration -> Register new app)
 
+#### Q: What's a difference between RBAC and Policy?
+RBAC - control user access, policies control resources (e.g. policy restriction to create some resource).
+
 <a name="roles"></a>
 ### Roles
 #### Q: Name the most popular available roles
