@@ -144,6 +144,9 @@ A: This is an accpunt for application that shall be authorized using Azure AD. I
 #### Q: What's a difference between RBAC and Policy?
 RBAC - control user access, policies control resources (e.g. policy restriction to create some resource).
 
+#### Q: How to synchronize AD bewteen Azure and On-Prem?
+A: Azure AD connect is a tool that is able to sync users/groups/devices bewteen on-prem and cloud
+
 <a name="roles"></a>
 ### Roles
 #### Q: Name the most popular available roles
