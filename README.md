@@ -158,5 +158,5 @@ A:
 - Virtual machine Contributor - can manage VMs but not virtual network or storage
 
 #### Q: On which level it's possible to grant an access?
-A: You can grant an access on Subscription, Resource Group and Resources
+A: You can grant an access on Subscription, Resource Group and Resources level
 
