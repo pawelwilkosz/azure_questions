@@ -148,7 +148,7 @@ RBAC - control user access, policies control resources (e.g. policy restriction 
 A: Azure AD connect is a tool that is able to sync users/groups/devices bewteen on-prem and cloud
 
 #### Q: What's conditional access?
-A: Conditional Access is the tool used by AAD to bring signals together to make decisions. For example access can be determined by some localization 
+A: Conditional Access is the tool used by AAD to bring signals together to make decisions. For example access can be determined by some localization or device platform (iOS, Android etc)
 
 <a name="roles"></a>
 ### Roles
