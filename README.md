@@ -147,6 +147,9 @@ RBAC - control user access, policies control resources (e.g. policy restriction 
 #### Q: How to synchronize AD bewteen Azure and On-Prem?
 A: Azure AD connect is a tool that is able to sync users/groups/devices bewteen on-prem and cloud
 
+#### Q: What's conditional access?
+A: Conditional Access is the tool used by AAD to bring signals together to make decisions. For example access can be determined by some localization 
+
 <a name="roles"></a>
 ### Roles
 #### Q: Name the most popular available roles
