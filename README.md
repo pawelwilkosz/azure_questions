@@ -11,6 +11,7 @@
 5. [Security](#security)
      * [Identity](#identity)
      * [Roles](#roles)
+     * [Zero Trust](#zerotrust)
 
 <a name="cloud_computing"></a>
 ## Cloud Computing
@@ -162,4 +163,13 @@ A:
 
 #### Q: On which level it's possible to grant an access?
 A: You can grant an access on Subscription, Resource Group and Resources level
+
+<a name="zerotrust"></a>
+### Zero Trust
+#### Q: What's Zero Trust?
+A: Zero Trust is a security model in organization, called "don't trust anyone". It contains with following items:
+- strong identity authentication everywhere
+- devices are enrolled in device management and their health is validated
+- access is limited to only what is needed
+- the health of services is validated
 
