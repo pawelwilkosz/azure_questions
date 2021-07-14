@@ -6,6 +6,8 @@
       * [General](#general)
       * [Storage Account](#storage_account)
       * [Key Vault](#key_vault)
+      * [Service Bus](#service_bus)
+      * [Virtual Machines](#virtual_machines)
 4. [Troubleshooting](#troubleshooting)
      * [Health Check](#health_check)
 5. [Security](#security)
@@ -118,8 +120,17 @@ A: Access is configured per secret type, separate for: Keys, Certificates and Se
 A: Info abput Keys: https://docs.microsoft.com/pl-pl/azure/key-vault/keys/about-keys
 Info about Secrets: https://docs.microsoft.com/pl-pl/azure/key-vault/secrets/about-secrets
 
-###Virtual Machines
-####Q: What's Virtual Machine Scale Set?
+<a name="service_bus"></a>
+### Service Bus
+#### Q: What's the differences between Service Bus and Storage Account Queue?
+A: Main differences are:
+- Ordering quarantee (no guarantee in SA, first-in-first-out FIFO in Service Bus)
+- Message length (SA: up to 64 KB, over 80GB in queue)
+- Atomic opertation support (i.e. ensuring all messages either succeed or get reverted) - no support in SA
+
+<a name="virtual_machines"></a>
+### Virtual Machines
+#### Q: What's Virtual Machine Scale Set?
 A: Service for creating load balancing VMs.
 
 <a name="troubleshooting"></a>
