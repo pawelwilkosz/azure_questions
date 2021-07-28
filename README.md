@@ -31,6 +31,9 @@ In IaaS model:
 **3) SaaS: Software As A Service** - delivers full software platform and/or SDK Suite for developers. Only what the user needs to do is to make a configuration. Scalability & platform is transparent. Example: Office 356, Azure IoT Suite
 In SaaS model client is responsible on Data only, the rest of Cloud Stack is in Cloud provider's responsibility
 <a name="azure_services"></a>
+#### Q: Give couple of examples of Paas, SaaS, IaaS on Azure
+A:
+- PaaS: 
 #### Q: What's Azure Resource Group?
 A: Resource group is a logical group collector for Azure objects/assets
 ## Azure Services
