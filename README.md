@@ -33,7 +33,16 @@ In SaaS model client is responsible on Data only, the rest of Cloud Stack is in 
 <a name="azure_services"></a>
 #### Q: Give couple of examples of Paas, SaaS, IaaS on Azure
 A:
-- PaaS: 
+| Model | Service Example |
+| PaaS | Logic Apps, Functions, WebApps, Azure SQL Server, AKS |
+| IaaS | network storage, virtualization |
+| SaaS | Office365, Azure SendGrid |
+
+Business share:
+- IaaS = around 12%
+- SaaS - 24%
+- PaaS - 32%
+
 #### Q: What's Azure Resource Group?
 A: Resource group is a logical group collector for Azure objects/assets
 ## Azure Services
