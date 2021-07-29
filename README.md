@@ -33,10 +33,10 @@ In SaaS model client is responsible on Data only, the rest of Cloud Stack is in 
 <a name="azure_services"></a>
 #### Q: Give couple of examples of Paas, SaaS, IaaS on Azure
 A:
-| Model | Service Example |
-| PaaS | Logic Apps, Functions, WebApps, Azure SQL Server, AKS |
-| IaaS | network storage, virtualization |
-| SaaS | Office365, Azure SendGrid |
+|Model |Service Example |
+|PaaS | Logic Apps, Functions, WebApps, Azure SQL Server, AKS |
+|IaaS | network storage, virtualization |
+|SaaS | Office365, Azure SendGrid |
 
 Business share:
 - IaaS = around 12%
