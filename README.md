@@ -201,5 +201,6 @@ A: Zero Trust is a security model in organization, called "don't trust anyone". 
 
 <a name="databox"></a>
 ## Azure Data Box
-### Describe conception of Azure Data Box in Backup scenario
-Azure Data Box Service is used when you want to transfer large amount of data from on-premis to Cloud. Data Box is a physical device that can be ordered directly from Azure portal. Once the data are copied on the device, box is returned to the Azure Data Center to be uploaded to the cloud. After that action device is securely erased
+### Conception
+#### Q: Describe conception of Azure Data Box in the context of backup and restore
+A: Azure Data Box Service is used when you want to transfer large amount of data from on-premis to Cloud. Data Box is a physical device that can be ordered directly from Azure portal. Once the data are copied on the device, box is returned to the Azure Data Center to be uploaded to the cloud. After that action device is securely erased
